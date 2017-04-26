@@ -48,5 +48,10 @@
 							</div></div>
 						</div>
 	</t:ICSSE2017>
+	<form  action="/hello-springboot/ckeditor"> 
+			<button type = "submit" name = "ckeditor">
+				Soạn Thảo
+			</button>
+		</form>
 </body>
 </html>
